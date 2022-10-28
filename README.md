@@ -7,7 +7,7 @@ The application allows to do:
 •	Load existing project over the menu “File
 •	Create a new project over the menu “File”
 o	user should be able to
-1	select the location and name of the project file
+->	select the location and name of the project file
 2	edit name
 3	edit project type
 4	add / edit / delete elements in value list
