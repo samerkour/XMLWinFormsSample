@@ -1,9 +1,9 @@
 # XMLWinFormsSample
 XML Validation against XSD , Create, Open, Edit , Save XML File
 
-The idea is a project having a mandatory name and type and an optional list of values Loaded, Created, Edited and Saved to an XML File and Validated Against XSD Schema.
+The idea is a project that have a mandatory name and type and an optional list of values Loaded, Created, Edited and Saved to an XML File and Validated Against XSD Schema.
  
-You have to create an application allowing you to do:
+The application allows to do:
 •	Load existing project over the menu “File
 •	Create a new project over the menu “File”
 o	user should be able to
