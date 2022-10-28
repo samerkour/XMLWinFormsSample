@@ -1,5 +1,5 @@
 # XMLWinFormsSample
-.Net Cor 6, XML Validation against XSD , Create, Open, Edit , Save XML File
+.Net Cor 6 WinForms Project That is used to Create, Open, Edit , Validation XML against XSD , Save XML File.
 
 The idea is a project that have a mandatory name and type and an optional list of values Loaded, Created, Edited and Saved to an XML File and Validated Against XSD Schema.
  
