@@ -7,10 +7,10 @@ The application allows to do:
 •	Load existing project over the menu “File
 •	Create a new project over the menu “File”
 o	user should be able to
-->	select the location and name of the project file
-2	edit name
-3	edit project type
-4	add / edit / delete elements in value list
+1-	select the location and name of the project file
+2-	edit name
+3-	edit project type
+4-	add / edit / delete elements in value list
 •	edit project (in main view or dialog, it doesn’t matter)
 o	Edit name
 o	edit project type
